@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>gabriele renzi's Git Achievements</title>
+<item><title>Apprentice Collector (Level 2)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Banker (Level 7)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
@@ -17,7 +20,4 @@
 <item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 69 times with git add -p.</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
-<item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 57 times with git add -p.</description></item>
 </channel></rss>
