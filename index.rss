@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>gabriele renzi's Git Achievements</title>
+<item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 </channel></rss>
