@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>gabriele renzi's Git Achievements</title>
+<item><title>Master Banker (Level 9)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Banker (Level 7)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 </channel></rss>
